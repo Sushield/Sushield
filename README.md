@@ -72,11 +72,11 @@ const sushilKandel = {
 🧰 Tools
 <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/> </div> </div> </div>
 
-## 💼 What I Do
+## 💼 What I Enjoyed Learning
 
 * 🌐 Full Stack Web Development (MERN)
-* 📱 Mobile App Development
-* 🤖 AI & Machine Learning
+* 📱 Mobile App Development  
+* 🤖 AI & Machine Learning (
 * 🔐 API Development
 * 📊 Data Analysis
 
@@ -85,9 +85,8 @@ const sushilKandel = {
 ## 🎯 Current Focus
 
 * 🔥 Advanced MERN Architecture
-* 📱 Flutter Apps
 * 🤖 AI/ML Projects
-* 🌍 Open Source
+* 🔐 API Development
 
 ---
 
