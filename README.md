@@ -38,10 +38,9 @@ const sushilKandel = {
   name: "Sushil Kandel",
   location: "Nepal 🇳🇵",
   role: "Full Stack Developer",
-  currentlyLearning: ["Advanced MERN", "AI/ML", "Flutter"],
+  currentlyLearning: ["Advanced MERN", "AI/ML",],
   currentlyBuilding: "Full-stack projects 🚀",
   askMeAbout: ["MERN", "React", "Node.js", "Python"],
-  funFact: "I debug with coffee ☕",
 };
 ```
 
@@ -60,66 +59,48 @@ const sushilKandel = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sushield&theme=tokyonight&no-frame=true&no-bg=true"/>
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend
+<div align="center">
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+**Frontend** <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
 
-### ⚙️ Backend
+<br/>
 
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+**Backend** <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
 
-### 🗄️ Database
+<br/>
 
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
+**Database** <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
 
-### 🤖 AI / ML
+<br/>
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
+**AI / ML** <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/> <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv"/> <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn"/> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas"/>
+
+<br/>
+
+**Tools** <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
+
+</div>
 
 ---
 
 ## 💼 What I Do
 
 * 🌐 Full Stack Web Development (MERN)
-* 📱 Mobile App Development (Flutter / React Native)
-* 🤖 AI & Machine Learning Projects
-* 🔐 API Development & Authentication
-* 📊 Data Analysis & Computer Vision
+* 📱 Mobile App Development
+* 🤖 AI & Machine Learning
+* 🔐 API Development
+* 📊 Data Analysis
 
 ---
 
 ## 🎯 Current Focus
 
 * 🔥 Advanced MERN Architecture
-* 📱 Cross-platform apps with Flutter
-* 🤖 AI/ML systems
-* 🌍 Open Source Contributions
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sushield&theme=tokyonight&hide_border=true"/>
-</div>
+* 📱 Flutter Apps
+* 🤖 AI/ML Projects
+* 🌍 Open Source
 
 ---
 
@@ -138,7 +119,5 @@ const sushilKandel = {
 </div>
 
 ---
-
-<!-- Footer -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer"/>
