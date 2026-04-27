@@ -29,6 +29,12 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="https://cricketgear.vercel.app/">
+    <img src="https://img.shields.io/badge/CricketGear-Live%20Project-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</div>
+
 ---
 
 ## 🧑‍💻 About Me
