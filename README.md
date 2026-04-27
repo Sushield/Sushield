@@ -72,7 +72,7 @@ const sushilKandel = {
 ⚙️ Backend
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/> </div> <!-- Database Card --> <div style="min-width: 220px;">
 🗄️ Database
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/> </div> <!-- AI/ML Card --> <div style="min-width: 220px;">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql"/> </div> <!-- AI/ML Card --> <div style="min-width: 220px;">
 🤖 AI / ML
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/> <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv"/> <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn"/> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas"/> </div> <!-- Tools Card --> <div style="min-width: 220px;">
 🧰 Tools
